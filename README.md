@@ -29,14 +29,13 @@ Frontend (S3 Hosted Static Website)
 
 ## Folder Structure
 
+architecture/
 frontend/
 lambda/
-architecture/
-screenshots/
 
 ## Live Demo
 
-S3 Website URL Here
+http://trading-journal-project.s3-website-us-east-1.amazonaws.com
 
 ## Author
 
